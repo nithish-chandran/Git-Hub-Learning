@@ -8,3 +8,15 @@ Helps you go back to earlier versions of code if something breaks
 
 Example:
 If you change a Python file today and it breaks tomorrow, Git lets you restore yesterday’s working code.
+
+
+Why Version Control?
+
+Version control is needed to:
+
+✔ Track code history
+✔ Collaborate with teams
+✔ Avoid overwriting others’ work
+✔ Roll back to previous versions
+✔ Maintain stable releases
+
