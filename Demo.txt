@@ -1,0 +1,10 @@
+What does Git do?
+
+Tracks changes in code over time
+
+Allows multiple people to work on the same project
+
+Helps you go back to earlier versions of code if something breaks
+
+Example:
+If you change a Python file today and it breaks tomorrow, Git lets you restore yesterday’s working code.
